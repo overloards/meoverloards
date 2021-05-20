@@ -94,7 +94,8 @@ function replaceUrls(text) {
     return text;
   }
 }
-
+var like;
+like="dfgsdf"
 Typer.speed = 3;
 Typer.file = "content.html";
 Typer.init();
